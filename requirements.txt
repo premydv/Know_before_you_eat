@@ -1,0 +1,12 @@
+beautifulsoup4
+bs4
+Flask
+gevent
+Jinja2
+numpy
+pandas
+Pillow
+splinter
+Werkzeug
+gunicorn
+requests
